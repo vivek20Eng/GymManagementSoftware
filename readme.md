@@ -176,4 +176,3 @@ python gym_app.py
 ## 📋 License
 **MIT License** – Free to use/modify. See LICENSE file.
 
-Built with ❤️ by Grok (xAI). Questions? Check code or open an issue! 🚀
